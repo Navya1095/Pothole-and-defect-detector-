@@ -87,7 +87,7 @@ The project uses YOLOv8n, trained on a pothole dataset.
 
 Training configuration:
 
-- Epochs: 30
+- Epochs: 25
 - Image size: 416
 - Batch size: 2
 - Device: CPU
@@ -151,10 +151,8 @@ These are visual estimates, not measurements of real-world pothole dimensions. O
 
 Check the dataset license and attribution requirements before redistributing it. The current dataset configuration identifies the source license as ODbL v1.0. Verify its terms before publishing the dataset.
 
-## 👨‍💻 Author
 
-**Manoj Kumar Mandal**  
-GitHub: (https://github.com/manoj333565)
+
 
 ---
 
